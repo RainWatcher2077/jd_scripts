@@ -202,7 +202,7 @@
       ]
     },
     {
-      "id": "jd_Joy",
+      "id": "jd_Joy_new",
       "name": "宠汪汪",
       "keys": [],
       "settings": [
@@ -211,7 +211,7 @@
           "name": "静默运行",
           "val": true,
           "type": "boolean",
-          "desc": "运行宠汪汪(jd_joy.js)脚本时不发出系统弹窗通知"
+          "desc": "运行宠汪汪(jd_joy_new.js)脚本时不发出系统弹窗通知"
         },
         {
           "id": "jdJoyStealNotify",
